@@ -14,7 +14,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Desarrollador freelance - Backend**
 
-- 📝 Mi curriculum [https://drive.google.com/file/d/1WuPZ6bJke91hkgXU-sIBd8U69jIkkISb/view?usp=sharing](https://drive.google.com/file/d/1WuPZ6bJke91hkgXU-sIBd8U69jIkkISb/view?usp=sharing)
+- 📝 Mi curriculum [https://slug.vercel.app/s/curriculum-charlsdev](https://slug.vercel.app/s/curriculum-charlsdev)
 
 - 📫 Como llegar a mi **youquince@gmail.com**
 
