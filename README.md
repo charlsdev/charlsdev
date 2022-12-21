@@ -16,7 +16,7 @@
 
 - 📝 Mi curriculum [https://slug.vercel.app/s/curriculum-charlsdev](https://slug.vercel.app/s/curriculum-charlsdev)
 
-- 📫 Como llegar a mi **youquince@gmail.com**
+- 📫 Como llegar a mi **carlosvillacresesparrales23@gmail.com**
 
 <h3 align="left">Lenguajes, tecnologías y otros</h3>
 
