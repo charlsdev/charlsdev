@@ -1,7 +1,7 @@
 <p align="center" width="300">
    <h1 align="center">¡Hola 👋! Soy charlsdev</h2>
 
-   <h3 align="center">Soy Ingeniero en TI, apasionado por el desarrollo se software con 3 años de experiencia siempre dispuesto a seguir aprendiendo y ser un buen desarrollador. Me apasiona de igual manera la tecnología, la investigación, el deporte, plantearme nuevos retos y sobre todo enseñar a los demás.</h5>
+   <h3 align="center">Soy Ingeniero en TI, apasionado por el desarrollo se software con 4 años de experiencia en el mundo del desarrollo web siempre dispuesto a seguir aprendiendo y ser un buen desarrollador. Me apasiona de igual manera la tecnología, la investigación, el deporte, plantearme nuevos retos y sobre todo enseñar a los demás.</h5>
 
    <p align="center">
       <a href="https://twitter.com/carlosvillacre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlosvillacre" height="20" width="30" /></a>
@@ -30,7 +30,7 @@
 
 <h3 align="left">Versionamiento y herramientas de despliegue</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,githubactions,figma,linux,nginx,bash,grafana,prometheus,stackoverflow,vscode,visualstudio,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,docker,githubactions,figma,linux,nginx,bash,grafana,prometheus,visualstudio)](https://skillicons.dev)
 
 
 <h3 align="left">Mis estadísticas:</h3>
